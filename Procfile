@@ -1,0 +1,1 @@
+worker: python proc_bot.py
